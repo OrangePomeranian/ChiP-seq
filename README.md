@@ -1,1 +1,3 @@
 # ChiP-seq
+
+This GitHub project combines comprehensive ChIP-seq analysis to investigate PBRM1-PIAS1's role in epithelial tissue differentiation, using the GSE228221 dataset. It encompasses QC, mapping (bowtie2), peak calling (macs2), motif discovery, and target gene analysis, emphasizing EZH2's significance. By integrating bioinformatics techniques, the project enhances our understanding of epidermal differentiation and cholesterol biosynthesis. This study not only identifies potential PBRM1-PIAS1 targets but also explores the regulatory mechanisms and genetic regulation in epithelial tissues, highlighting the impact on cellular differentiation.
